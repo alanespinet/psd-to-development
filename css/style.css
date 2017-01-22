@@ -1,0 +1,29 @@
+body {
+  font-size: 16pt;
+}
+
+#header {
+  height: 200px;
+}
+
+#main img {
+  padding-bottom: 10px;
+}
+
+.site-header,
+.site-text {
+    font-family: 'Quicksand', sans-serif;
+    margin: 10px 0px 0px 0px;
+}
+
+.site-header {
+  font-size: 4.5rem;
+  padding: 0;
+}
+
+.site-text {
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: justify;
+  padding: 0 15px;
+}
